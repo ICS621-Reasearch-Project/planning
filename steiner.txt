@@ -1,0 +1,82 @@
+Terminals: 1000
+1 agents: time=0.021sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.013sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.007sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.009sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.017sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.007sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.008sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.007sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.022sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.012sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.009sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.009sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.018sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.009sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.007sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.012sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.019sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.006sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.007sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.012sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.029sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.01sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.01sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.005sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.032sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.012sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.007sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.006sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.025sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.007sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.01sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.007sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
+1 agents: time=0.03sec, approx_total_steiner_edges=0
+1 agents: terminals_per_agent ~ 1000
+2 agents: time=0.01sec, approx_total_steiner_edges=0
+2 agents: terminals_per_agent ~ 500
+4 agents: time=0.008sec, approx_total_steiner_edges=0
+4 agents: terminals_per_agent ~ 250
+8 agents: time=0.01sec, approx_total_steiner_edges=0
+8 agents: terminals_per_agent ~ 125
+
